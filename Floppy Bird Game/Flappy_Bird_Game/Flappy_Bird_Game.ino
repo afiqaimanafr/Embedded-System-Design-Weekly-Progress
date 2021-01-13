@@ -1,6 +1,6 @@
 // please subscribe to The Screwdriver
 // Flappy Bird Game .............
-// I cannot upload the code and video yet because my LCD is still shipping
+
 
 #include <LiquidCrystal_I2C.h>
 LiquidCrystal_I2C lcd(0x20, 2, 1, 0, 4, 5, 6, 7, 3, POSITIVE);
